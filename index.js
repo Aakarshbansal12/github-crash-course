@@ -6,11 +6,6 @@ function sayname(){
     console.log('My name is'+name1);
 }
 
-<<<<<<< HEAD
-function newfn(){
-    console.log('Hey i am a new function');
-=======
-function isabove18(){
-    return age>=18;
->>>>>>> parent of 9ec37f6 (remove 18 fn)
+function newfeatureadd(){
+    console.log("This is a new branch")
 }
