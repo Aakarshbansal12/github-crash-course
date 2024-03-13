@@ -7,5 +7,6 @@ function sayname(){
 }
 
 function newfeatureadd(){
-    console.log("This is a new branch")
+    console.log("This is a new branch");
+    console.log("This is a new branch");
 }
